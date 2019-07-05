@@ -1,0 +1,2 @@
+# timeql
+Declarative programming language
